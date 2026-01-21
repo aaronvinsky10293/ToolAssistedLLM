@@ -85,7 +85,6 @@ questions = [
     "respond to me how are you today?",
     "I need you to tell me how are you doing today?",
     "chicken soup for days",
-    "how are you?",
     "what is capital of France?"
 ]
 
